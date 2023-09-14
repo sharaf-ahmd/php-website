@@ -1,0 +1,21 @@
+﻿
+
+
+
+
+body{
+	background-image: #061b2f;
+}
+
+li{
+	list-style-type:none;
+	padding-top:5px;
+	padding-left:20px;
+	color:white;
+    transition: transform 0.5s;
+}
+li:hover{
+    transform:translateY(-8%);
+}
+
+
